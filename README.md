@@ -10,7 +10,7 @@ Trying to become a Full-stack Developer in the future 💻
 3. SQL
 
 ## Skill I want To learn 👇🏻 :
-- [ ] Front-end
+- [x] Front-end
 - [ ] Dev-ops
 - [ ] Back-end
 - [ ] Full-Stack
